@@ -1,0 +1,25 @@
+{
+    "python.analysis.extraPaths": [
+        "./",
+    ],
+    "python.autoComplete.extraPaths": [
+        "./",
+    ],
+    "cSpell.words": [
+        "colorbar",
+        "coolwarm",
+        "figsize",
+        "linalg",
+        "linewidth",
+        "magpy",
+        "magpylib",
+        "Matplotlib",
+        "mgrid",
+        "moveaxis",
+        "Polyline",
+        "Streamplot",
+        "xlabel",
+        "ylabel",
+        "zorder"
+    ]
+}
